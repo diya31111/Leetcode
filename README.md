@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/diya31111/Leetcode/tree/master/0328-odd-even-linked-list) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
