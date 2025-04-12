@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/diya31111/Leetcode/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
 ## Math
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/diya31111/Leetcode/tree/master/2998-count-symmetric-integers) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/diya31111/Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/diya31111/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
