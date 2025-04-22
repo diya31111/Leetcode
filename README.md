@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/diya31111/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/diya31111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/diya31111/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Math
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/diya31111/Leetcode/tree/master/0224-basic-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/diya31111/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/diya31111/Leetcode/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/diya31111/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/diya31111/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2998-count-symmetric-integers](https://github.com/diya31111/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Sorting
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/diya31111/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/diya31111/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Enumeration
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/diya31111/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/diya31111/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
