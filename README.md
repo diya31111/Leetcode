@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/diya31111/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/diya31111/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/diya31111/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/diya31111/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2915-count-of-interesting-subarrays](https://github.com/diya31111/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Dynamic Programming
 |  |
@@ -126,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1500-count-largest-group](https://github.com/diya31111/Leetcode/tree/master/1500-count-largest-group) |
 | [2915-count-of-interesting-subarrays](https://github.com/diya31111/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/diya31111/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Sliding Window
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/diya31111/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/diya31111/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
