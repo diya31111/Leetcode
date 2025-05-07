@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/diya31111/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2915-count-of-interesting-subarrays](https://github.com/diya31111/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/diya31111/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/diya31111/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/diya31111/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/diya31111/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/diya31111/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
