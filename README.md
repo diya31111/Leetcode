@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/diya31111/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/diya31111/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2915-count-of-interesting-subarrays](https://github.com/diya31111/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/diya31111/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/diya31111/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/diya31111/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/diya31111/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/diya31111/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Counting
 |  |
 | ------- |
