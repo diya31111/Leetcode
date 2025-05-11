@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/diya31111/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/diya31111/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/diya31111/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/diya31111/Leetcode/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/diya31111/Leetcode/tree/master/2048-build-array-from-permutation) |
