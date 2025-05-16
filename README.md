@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/diya31111/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/diya31111/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2915-count-of-interesting-subarrays](https://github.com/diya31111/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/diya31111/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/diya31111/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/diya31111/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/diya31111/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/diya31111/Leetcode/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/diya31111/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/diya31111/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/diya31111/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/diya31111/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/diya31111/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/diya31111/Leetcode/tree/master/0224-basic-calculator) |
 | [0868-push-dominoes](https://github.com/diya31111/Leetcode/tree/master/0868-push-dominoes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/diya31111/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/diya31111/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/diya31111/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/diya31111/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/diya31111/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
