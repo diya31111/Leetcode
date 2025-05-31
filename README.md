@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/diya31111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/diya31111/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/diya31111/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/diya31111/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/diya31111/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/diya31111/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/diya31111/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/diya31111/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/diya31111/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/diya31111/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/diya31111/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Tree
