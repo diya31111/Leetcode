@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/diya31111/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/diya31111/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/diya31111/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/diya31111/Leetcode/tree/master/0135-candy) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/diya31111/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/diya31111/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/diya31111/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
