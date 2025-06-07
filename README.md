@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/diya31111/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
+| [0560-subarray-sum-equals-k](https://github.com/diya31111/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0945-snakes-and-ladders](https://github.com/diya31111/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/diya31111/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/diya31111/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/diya31111/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2249-count-the-hidden-sequences](https://github.com/diya31111/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/diya31111/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/diya31111/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/diya31111/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/diya31111/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/diya31111/Leetcode/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/diya31111/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
