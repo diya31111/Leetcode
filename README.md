@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/diya31111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/diya31111/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/diya31111/Leetcode/tree/master/0054-spiral-matrix) |
 | [0135-candy](https://github.com/diya31111/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/diya31111/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/diya31111/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/diya31111/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/diya31111/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/diya31111/Leetcode/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/diya31111/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/diya31111/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Shortest Path
