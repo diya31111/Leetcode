@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/diya31111/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/diya31111/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/diya31111/Leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/diya31111/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/diya31111/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/diya31111/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/diya31111/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
