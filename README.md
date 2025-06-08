@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/diya31111/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/diya31111/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/diya31111/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/diya31111/Leetcode/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/diya31111/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/diya31111/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/diya31111/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/diya31111/Leetcode/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/diya31111/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/diya31111/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Greedy
