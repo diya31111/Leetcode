@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/diya31111/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/diya31111/Leetcode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/diya31111/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/diya31111/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/diya31111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/diya31111/Leetcode/tree/master/0048-rotate-image) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/diya31111/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/diya31111/Leetcode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/diya31111/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/diya31111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0868-push-dominoes](https://github.com/diya31111/Leetcode/tree/master/0868-push-dominoes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/diya31111/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
