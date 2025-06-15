@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/diya31111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/diya31111/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/diya31111/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/diya31111/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -325,5 +326,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/diya31111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/diya31111/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
