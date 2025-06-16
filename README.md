@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/diya31111/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/diya31111/Leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/diya31111/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/diya31111/Leetcode/tree/master/0242-valid-anagram) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/diya31111/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/diya31111/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/diya31111/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/diya31111/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/diya31111/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/diya31111/Leetcode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/diya31111/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/diya31111/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/diya31111/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/diya31111/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/diya31111/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/diya31111/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/diya31111/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/diya31111/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/diya31111/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/diya31111/Leetcode/tree/master/1500-count-largest-group) |
