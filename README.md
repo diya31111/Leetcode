@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/diya31111/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/diya31111/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/diya31111/Leetcode/tree/master/0224-basic-calculator) |
+| [0812-rotate-string](https://github.com/diya31111/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/diya31111/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/diya31111/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/diya31111/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/diya31111/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/diya31111/Leetcode/tree/master/0386-lexicographical-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/diya31111/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
