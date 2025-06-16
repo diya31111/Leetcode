@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/diya31111/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/diya31111/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/diya31111/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/diya31111/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/diya31111/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/diya31111/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/diya31111/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/diya31111/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/diya31111/Leetcode/tree/master/0224-basic-calculator) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/diya31111/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/diya31111/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/diya31111/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
