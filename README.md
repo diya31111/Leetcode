@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/diya31111/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/diya31111/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/diya31111/Leetcode/tree/master/2050-count-good-numbers) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/diya31111/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/diya31111/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/diya31111/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/diya31111/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/diya31111/Leetcode/tree/master/1656-count-good-triplets) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/diya31111/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/diya31111/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/diya31111/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/diya31111/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
