@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/diya31111/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/diya31111/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1656-count-good-triplets](https://github.com/diya31111/Leetcode/tree/master/1656-count-good-triplets) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/diya31111/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/diya31111/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/diya31111/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/diya31111/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/diya31111/Leetcode/tree/master/0198-house-robber) |
 | [0806-domino-and-tromino-tiling](https://github.com/diya31111/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/diya31111/Leetcode/tree/master/0868-push-dominoes) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/diya31111/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/diya31111/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/diya31111/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/diya31111/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/diya31111/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/diya31111/Leetcode/tree/master/0242-valid-anagram) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/diya31111/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/diya31111/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/diya31111/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/diya31111/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/diya31111/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/diya31111/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/diya31111/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/diya31111/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/diya31111/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/diya31111/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/diya31111/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Greedy
